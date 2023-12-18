@@ -600,11 +600,6 @@ html.non-touch .addToCart button:hover {
     color: hsl(228, 45%, 44%);
 }
 
-img[src*='#center'] {
-    display: block;
-    margin: auto;
-}
-
 @media screen and (max-width: 1200px) {
     .main-container {
         width: 74%;

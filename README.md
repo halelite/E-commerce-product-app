@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshot
 
 ![Design preview for the E-commerce product page](./design/solution-img/Screenshot1.png)
-![Design preview for the E-commerce product page](./design/solution-img/Screenshot2.png)
+![Design preview for the E-commerce product page](./design/solution-img/Screenshot2.png#center)
 
 ### Links
 
